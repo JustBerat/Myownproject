@@ -1,0 +1,47 @@
+<html>
+<head>
+
+  <title> Mijn eerste website </title>
+ <body bgcolor="yellow" text="blue">
+<h1> ICEWING  </h1>
+
+
+<p>Dit is een <a href="https://www.google.be/search?q=icewing&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiX4dW7p6bdAhWmsKQKHWb1AC8Q_AUICigB&biw=1440&bih=794/" >ICEWING</a> </p>   
+
+ <img src="images/Icewing.jpg" width="350" height="300">
+<ol>
+<li> Gigantisch </il>
+<li> Licht blauw </il>
+<li> Vleugels </il>
+</ol>
+<h1> SLANG  </h1>
+
+
+<p>Dit is een <a href="https://www.google.be/search?q=Slang&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiFw9GLrKbdAhWLsKQKHeGhCi8Q_AUICigB&biw=635&bih=747#imgrc=_" >Slang</a> </p>   
+
+<style>
+table, tr, th {
+border: 2px solid black;
+}
+
+
+
+
+</style>
+ <img src="images/Slang.jpg" width="350" height="300">
+<ol>
+<li> Sierlijk </il>
+<li> Giftig </il>
+<li> Slank </il>
+</ol>
+<table>
+<tr>
+<th>SLANG</th> 
+<th>ICEWING </th>
+</tr>
+<tr>
+<th><img src="images/Slang.jpg" width="250" </th>
+<th> <img src="images/Icewing.jpg" width="250"</th>
+
+</table>
+
